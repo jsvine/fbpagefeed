@@ -14,7 +14,7 @@ with open(os.path.join(HERE, 'requirements.txt')) as f:
 
 setup(
     name = NAME,
-    description = "A library and command-line tool for fetching Facebook pages' published posts.",
+    description = "A library and command-line tool for fetching Facebook Pages' published posts.",
     version = version_ns['__version__'],
     packages = find_packages(exclude=["test",]),
     tests_require = [ "nose" ] + requirements,
