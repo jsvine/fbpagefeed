@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/pypi/v/fbpagefeed.svg)][https://pypi.python.org/pypi/fbpagefeed] [![License](https://img.shields.io/pypi/l/fbpagefeed.svg)][https://pypi.python.org/pypi/fbpagefeed]
+[![Version](https://img.shields.io/pypi/v/fbpagefeed.svg)](https://pypi.python.org/pypi/fbpagefeed) [![License](https://img.shields.io/pypi/l/fbpagefeed.svg)](https://pypi.python.org/pypi/fbpagefeed)
 
 # fbpagefeed
 
